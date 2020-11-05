@@ -1,7 +1,0 @@
-version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
-options: "9ee4cdf6a44b80658b0956eb7f5fbb03"
-build_time: [1604555017, 608964000]
-inputs:
-  "/Users/walle/Desktop/Proj/homepage/macos/Runner/MainFlutterWindow.swift": [1599315048, 242879290]
-  "/Users/walle/Desktop/Proj/homepage/macos/Runner/AppDelegate.swift": [1599315048, 237430280]
-  "/Users/walle/Desktop/Proj/homepage/macos/Flutter/GeneratedPluginRegistrant.swift": [1604554844, 242317617]
