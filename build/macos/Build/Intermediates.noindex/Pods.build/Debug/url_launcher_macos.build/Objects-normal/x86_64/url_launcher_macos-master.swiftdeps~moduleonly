@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "4439e6ed17e801cc48309d8a1f7443ac"
+build_time: [1604554918, 87959000]
+inputs:
+  "/Users/walle/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+9/macos/Classes/UrlLauncherPlugin.swift": [1580775263, 0]
